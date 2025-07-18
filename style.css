@@ -30,7 +30,7 @@ nav{
     margin: 50px;
 }
 .header{
-    background-image: url('/B12A01-landing-launchpad/Assets/Hero-bg.png');
+    background-image: url('./B12A01-landing-launchpad/Assets/Hero-bg.png');
     background-size: 100%;
 }
 .banner{
